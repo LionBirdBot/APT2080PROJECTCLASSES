@@ -1,0 +1,4 @@
+* We scrapped off the booking class and made a booking function in the User class.
+* The rest of the classes are packaged in their respective packages, AppUser, Payment and TripData packages.
+* The location class was also scrapped and added as an attribute with subsequent setter and getter in the User class.
+* The Vehicle class was scrapped and vehicle attributes and methods added to the driver class.
